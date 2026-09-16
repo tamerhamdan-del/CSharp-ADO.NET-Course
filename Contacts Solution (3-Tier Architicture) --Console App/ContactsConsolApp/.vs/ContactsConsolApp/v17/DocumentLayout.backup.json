@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ContactsConsolApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26650F21-BFCE-4FAB-8FD6-62161224F359}|ContactsConsolApp-PresentationLayer.csproj|c:\\contactsconsolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26650F21-BFCE-4FAB-8FD6-62161224F359}|ContactsConsolApp-PresentationLayer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCC4184-857C-4F65-88B3-8E1CCEA8B9E7}|..\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj|c:\\contactsdataaccesslayer\\clscountriesdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E533F207-E07A-4D21-90BD-95A635E42CCC}|..\\ContactBusinessLayer\\ContactsBusinessLayer.csproj|c:\\contactbusinesslayer\\clscountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCountriesDataAccess.cs",
+              "DocumentMoniker": "C:\\ContactsDataAccessLayer\\clsCountriesDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\ContactsDataAccessLayer\\clsCountriesDataAccess.cs",
+              "ToolTip": "C:\\ContactsDataAccessLayer\\clsCountriesDataAccess.cs",
+              "RelativeToolTip": "..\\ContactsDataAccessLayer\\clsCountriesDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T05:55:43.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsCountries.cs",
+              "DocumentMoniker": "C:\\ContactBusinessLayer\\clsCountries.cs",
+              "RelativeDocumentMoniker": "..\\ContactBusinessLayer\\clsCountries.cs",
+              "ToolTip": "C:\\ContactBusinessLayer\\clsCountries.cs",
+              "RelativeToolTip": "..\\ContactBusinessLayer\\clsCountries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T05:54:02.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ContactsConsolApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ContactsConsolApp\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACwBAAAAAAAAAAAqwD8BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:13:03.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

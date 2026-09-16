@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Single Value", "Find Single Value.csproj", "{EF4BF915-D624-4FD9-A5A9-221A6E53FBDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4BF915-D624-4FD9-A5A9-221A6E53FBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4BF915-D624-4FD9-A5A9-221A6E53FBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4BF915-D624-4FD9-A5A9-221A6E53FBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4BF915-D624-4FD9-A5A9-221A6E53FBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65479B4B-EAD9-48FA-8308-2464057CC745}
+	EndGlobalSection
+EndGlobal

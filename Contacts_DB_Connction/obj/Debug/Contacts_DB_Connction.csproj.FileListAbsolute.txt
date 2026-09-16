@@ -1,0 +1,8 @@
+C:\Contacts_DB_Connction\obj\Debug\Contacts_DB_Connction.csproj.AssemblyReference.cache
+C:\Contacts_DB_Connction\obj\Debug\Contacts_DB_Connction.csproj.CoreCompileInputs.cache
+C:\Contacts_DB_Connction\bin\Debug\Contacts_DB_Connction.exe.config
+C:\Contacts_DB_Connction\bin\Debug\Contacts_DB_Connction.exe
+C:\Contacts_DB_Connction\bin\Debug\Contacts_DB_Connction.pdb
+C:\Contacts_DB_Connction\obj\Debug\Contacts_DB_Connction.exe
+C:\Contacts_DB_Connction\obj\Debug\Contacts_DB_Connction.pdb
+C:\Contacts_DB_Connction\obj\Debug\Contacts_DB_Connction.exe.config

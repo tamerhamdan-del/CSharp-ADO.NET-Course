@@ -1,0 +1,7 @@
+C:\Sorting Data In Data View\obj\Debug\Sorting Data In Data View.csproj.AssemblyReference.cache
+C:\Sorting Data In Data View\obj\Debug\Sorting Data In Data View.csproj.CoreCompileInputs.cache
+C:\Sorting Data In Data View\bin\Debug\Sorting Data In Data View.exe.config
+C:\Sorting Data In Data View\bin\Debug\Sorting Data In Data View.exe
+C:\Sorting Data In Data View\bin\Debug\Sorting Data In Data View.pdb
+C:\Sorting Data In Data View\obj\Debug\Sorting Data In Data View.exe
+C:\Sorting Data In Data View\obj\Debug\Sorting Data In Data View.pdb

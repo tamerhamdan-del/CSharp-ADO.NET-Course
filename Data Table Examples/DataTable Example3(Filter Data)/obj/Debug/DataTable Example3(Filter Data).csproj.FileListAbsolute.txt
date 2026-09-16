@@ -1,0 +1,8 @@
+C:\DataTable Example3(Filter Data)\bin\Debug\DataTable Example3(Filter Data).exe.config
+C:\DataTable Example3(Filter Data)\bin\Debug\DataTable Example3(Filter Data).exe
+C:\DataTable Example3(Filter Data)\bin\Debug\DataTable Example3(Filter Data).pdb
+C:\DataTable Example3(Filter Data)\obj\Debug\DataTable Example3(Filter Data).csproj.AssemblyReference.cache
+C:\DataTable Example3(Filter Data)\obj\Debug\DataTable Example3(Filter Data).csproj.CoreCompileInputs.cache
+C:\DataTable Example3(Filter Data)\obj\Debug\DataTable Example3(Filter Data).exe
+C:\DataTable Example3(Filter Data)\obj\Debug\DataTable Example3(Filter Data).pdb
+C:\DataTable Example3(Filter Data)\obj\Debug\DataTable Example3(Filter Data).exe.config

@@ -1,0 +1,7 @@
+C:\Delete Data\bin\Debug\Delete Data.exe.config
+C:\Delete Data\bin\Debug\Delete Data.exe
+C:\Delete Data\bin\Debug\Delete Data.pdb
+C:\Delete Data\obj\Debug\Delete Data.csproj.AssemblyReference.cache
+C:\Delete Data\obj\Debug\Delete Data.csproj.CoreCompileInputs.cache
+C:\Delete Data\obj\Debug\Delete Data.exe
+C:\Delete Data\obj\Debug\Delete Data.pdb

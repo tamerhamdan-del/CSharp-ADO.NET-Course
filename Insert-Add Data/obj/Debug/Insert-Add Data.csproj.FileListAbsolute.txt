@@ -1,0 +1,7 @@
+C:\Insert-Add Data\bin\Debug\Insert-Add Data.exe.config
+C:\Insert-Add Data\bin\Debug\Insert-Add Data.exe
+C:\Insert-Add Data\bin\Debug\Insert-Add Data.pdb
+C:\Insert-Add Data\obj\Debug\Insert-Add Data.csproj.AssemblyReference.cache
+C:\Insert-Add Data\obj\Debug\Insert-Add Data.csproj.CoreCompileInputs.cache
+C:\Insert-Add Data\obj\Debug\Insert-Add Data.exe
+C:\Insert-Add Data\obj\Debug\Insert-Add Data.pdb

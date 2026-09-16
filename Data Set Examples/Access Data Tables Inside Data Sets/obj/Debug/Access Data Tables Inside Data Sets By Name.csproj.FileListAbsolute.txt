@@ -1,0 +1,7 @@
+C:\Access Data Tables Inside Data Sets\bin\Debug\Access Data Tables Inside Data Sets.exe.config
+C:\Access Data Tables Inside Data Sets\bin\Debug\Access Data Tables Inside Data Sets.exe
+C:\Access Data Tables Inside Data Sets\bin\Debug\Access Data Tables Inside Data Sets.pdb
+C:\Access Data Tables Inside Data Sets\obj\Debug\Access Data Tables Inside Data Sets By Name.csproj.AssemblyReference.cache
+C:\Access Data Tables Inside Data Sets\obj\Debug\Access Data Tables Inside Data Sets By Name.csproj.CoreCompileInputs.cache
+C:\Access Data Tables Inside Data Sets\obj\Debug\Access Data Tables Inside Data Sets.exe
+C:\Access Data Tables Inside Data Sets\obj\Debug\Access Data Tables Inside Data Sets.pdb

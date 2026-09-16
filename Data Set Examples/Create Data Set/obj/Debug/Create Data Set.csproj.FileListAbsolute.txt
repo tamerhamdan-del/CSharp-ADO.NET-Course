@@ -1,0 +1,8 @@
+C:\Create Data Set\bin\Debug\Create Data Set.exe.config
+C:\Create Data Set\bin\Debug\Create Data Set.exe
+C:\Create Data Set\bin\Debug\Create Data Set.pdb
+C:\Create Data Set\obj\Debug\Create Data Set.csproj.AssemblyReference.cache
+C:\Create Data Set\obj\Debug\Create Data Set.csproj.CoreCompileInputs.cache
+C:\Create Data Set\obj\Debug\Create Data Set.exe
+C:\Create Data Set\obj\Debug\Create Data Set.pdb
+C:\Create Data Set\obj\Debug\Create Data Set.exe.config

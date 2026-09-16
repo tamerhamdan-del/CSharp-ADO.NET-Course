@@ -1,0 +1,7 @@
+C:\DataTable Example7(Clear)\bin\Debug\DataTable Example7(Clear).exe.config
+C:\DataTable Example7(Clear)\bin\Debug\DataTable Example7(Clear).exe
+C:\DataTable Example7(Clear)\bin\Debug\DataTable Example7(Clear).pdb
+C:\DataTable Example7(Clear)\obj\Debug\DataTable Example7(Clear).csproj.AssemblyReference.cache
+C:\DataTable Example7(Clear)\obj\Debug\DataTable Example7(Clear).csproj.CoreCompileInputs.cache
+C:\DataTable Example7(Clear)\obj\Debug\DataTable Example7(Clear).exe
+C:\DataTable Example7(Clear)\obj\Debug\DataTable Example7(Clear).pdb

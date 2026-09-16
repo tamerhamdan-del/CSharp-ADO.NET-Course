@@ -1,8 +1,0 @@
-C:\Retrieve Auto Number After Inserting-Adding Data\bin\Debug\Retrieve Auto Number After Inserting-Adding Data.exe.config
-C:\Retrieve Auto Number After Inserting-Adding Data\bin\Debug\Retrieve Auto Number After Inserting-Adding Data.exe
-C:\Retrieve Auto Number After Inserting-Adding Data\bin\Debug\Retrieve Auto Number After Inserting-Adding Data.pdb
-C:\Retrieve Auto Number After Inserting-Adding Data\obj\Debug\Retrieve Auto Number After Inserting-Adding Data.csproj.AssemblyReference.cache
-C:\Retrieve Auto Number After Inserting-Adding Data\obj\Debug\Retrieve Auto Number After Inserting-Adding Data.csproj.CoreCompileInputs.cache
-C:\Retrieve Auto Number After Inserting-Adding Data\obj\Debug\Retrieve Auto Number After Inserting-Adding Data.exe
-C:\Retrieve Auto Number After Inserting-Adding Data\obj\Debug\Retrieve Auto Number After Inserting-Adding Data.pdb
-C:\Retrieve Auto Number After Inserting-Adding Data\obj\Debug\Retrieve Auto Number After Inserting-Adding Data.exe.config

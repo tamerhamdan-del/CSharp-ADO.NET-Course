@@ -1,8 +1,0 @@
-C:\DataTable Example5(Delete Row)\obj\Debug\DataTable Example5(Delete Row).csproj.AssemblyReference.cache
-C:\DataTable Example5(Delete Row)\obj\Debug\DataTable Example5(Delete Row).csproj.CoreCompileInputs.cache
-C:\DataTable Example5(Delete Row)\bin\Debug\DataTable Example5(Delete Row).exe.config
-C:\DataTable Example5(Delete Row)\bin\Debug\DataTable Example5(Delete Row).exe
-C:\DataTable Example5(Delete Row)\bin\Debug\DataTable Example5(Delete Row).pdb
-C:\DataTable Example5(Delete Row)\obj\Debug\DataTable Example5(Delete Row).exe
-C:\DataTable Example5(Delete Row)\obj\Debug\DataTable Example5(Delete Row).pdb
-C:\DataTable Example5(Delete Row)\obj\Debug\DataTable Example5(Delete Row).exe.config

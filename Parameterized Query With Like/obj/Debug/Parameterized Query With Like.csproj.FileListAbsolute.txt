@@ -1,8 +1,0 @@
-C:\Parameterized Query With Like\bin\Debug\Parameterized Query With Like.exe.config
-C:\Parameterized Query With Like\bin\Debug\Parameterized Query With Like.exe
-C:\Parameterized Query With Like\bin\Debug\Parameterized Query With Like.pdb
-C:\Parameterized Query With Like\obj\Debug\Parameterized Query With Like.csproj.AssemblyReference.cache
-C:\Parameterized Query With Like\obj\Debug\Parameterized Query With Like.csproj.CoreCompileInputs.cache
-C:\Parameterized Query With Like\obj\Debug\Parameterized Query With Like.exe
-C:\Parameterized Query With Like\obj\Debug\Parameterized Query With Like.pdb
-C:\Parameterized Query With Like\obj\Debug\Parameterized Query With Like.exe.config

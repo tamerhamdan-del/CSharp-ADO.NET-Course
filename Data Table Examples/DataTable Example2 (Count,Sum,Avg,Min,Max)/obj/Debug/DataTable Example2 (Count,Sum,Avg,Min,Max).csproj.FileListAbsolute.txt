@@ -1,8 +1,0 @@
-C:\DataTable Example2 (Count,Sum,Avg,Min,Max)\bin\Debug\DataTable Example2 (Count,Sum,Avg,Min,Max).exe.config
-C:\DataTable Example2 (Count,Sum,Avg,Min,Max)\bin\Debug\DataTable Example2 (Count,Sum,Avg,Min,Max).exe
-C:\DataTable Example2 (Count,Sum,Avg,Min,Max)\bin\Debug\DataTable Example2 (Count,Sum,Avg,Min,Max).pdb
-C:\DataTable Example2 (Count,Sum,Avg,Min,Max)\obj\Debug\DataTable Example2 (Count,Sum,Avg,Min,Max).csproj.AssemblyReference.cache
-C:\DataTable Example2 (Count,Sum,Avg,Min,Max)\obj\Debug\DataTable Example2 (Count,Sum,Avg,Min,Max).csproj.CoreCompileInputs.cache
-C:\DataTable Example2 (Count,Sum,Avg,Min,Max)\obj\Debug\DataTable Example2 (Count,Sum,Avg,Min,Max).exe
-C:\DataTable Example2 (Count,Sum,Avg,Min,Max)\obj\Debug\DataTable Example2 (Count,Sum,Avg,Min,Max).pdb
-C:\DataTable Example2 (Count,Sum,Avg,Min,Max)\obj\Debug\DataTable Example2 (Count,Sum,Avg,Min,Max).exe.config

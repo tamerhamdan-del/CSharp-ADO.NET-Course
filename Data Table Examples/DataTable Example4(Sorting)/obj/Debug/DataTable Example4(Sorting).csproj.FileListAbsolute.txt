@@ -1,7 +1,0 @@
-C:\DataTable Example4(Sorting)\bin\Debug\DataTable Example4(Sorting).exe.config
-C:\DataTable Example4(Sorting)\bin\Debug\DataTable Example4(Sorting).exe
-C:\DataTable Example4(Sorting)\bin\Debug\DataTable Example4(Sorting).pdb
-C:\DataTable Example4(Sorting)\obj\Debug\DataTable Example4(Sorting).csproj.AssemblyReference.cache
-C:\DataTable Example4(Sorting)\obj\Debug\DataTable Example4(Sorting).csproj.CoreCompileInputs.cache
-C:\DataTable Example4(Sorting)\obj\Debug\DataTable Example4(Sorting).exe
-C:\DataTable Example4(Sorting)\obj\Debug\DataTable Example4(Sorting).pdb

@@ -1,8 +1,0 @@
-C:\Create Data View From Data Table\bin\Debug\Create Data View From Data Table.exe.config
-C:\Create Data View From Data Table\bin\Debug\Create Data View From Data Table.exe
-C:\Create Data View From Data Table\bin\Debug\Create Data View From Data Table.pdb
-C:\Create Data View From Data Table\obj\Debug\Create Data View From Data Table.csproj.AssemblyReference.cache
-C:\Create Data View From Data Table\obj\Debug\Create Data View From Data Table.csproj.CoreCompileInputs.cache
-C:\Create Data View From Data Table\obj\Debug\Create Data View From Data Table.exe
-C:\Create Data View From Data Table\obj\Debug\Create Data View From Data Table.pdb
-C:\Create Data View From Data Table\obj\Debug\Create Data View From Data Table.exe.config

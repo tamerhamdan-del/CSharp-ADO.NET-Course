@@ -1,8 +1,0 @@
-C:\DataTable Example9(Auto Increment And Others)\bin\Debug\DataTable Example9(Auto Increment And Others).exe.config
-C:\DataTable Example9(Auto Increment And Others)\bin\Debug\DataTable Example9(Auto Increment And Others).exe
-C:\DataTable Example9(Auto Increment And Others)\bin\Debug\DataTable Example9(Auto Increment And Others).pdb
-C:\DataTable Example9(Auto Increment And Others)\obj\Debug\DataTable Example9(Auto Increment And Others).csproj.AssemblyReference.cache
-C:\DataTable Example9(Auto Increment And Others)\obj\Debug\DataTable Example9(Auto Increment And Others).csproj.CoreCompileInputs.cache
-C:\DataTable Example9(Auto Increment And Others)\obj\Debug\DataTable Example9(Auto Increment And Others).exe
-C:\DataTable Example9(Auto Increment And Others)\obj\Debug\DataTable Example9(Auto Increment And Others).pdb
-C:\DataTable Example9(Auto Increment And Others)\obj\Debug\DataTable Example9(Auto Increment And Others).exe.config

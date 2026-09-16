@@ -1,8 +1,0 @@
-C:\Find Single Value\obj\Debug\Find Single Value.csproj.AssemblyReference.cache
-C:\Find Single Value\obj\Debug\Find Single Value.csproj.CoreCompileInputs.cache
-C:\Find Single Value\bin\Debug\Find Single Value.exe.config
-C:\Find Single Value\bin\Debug\Find Single Value.exe
-C:\Find Single Value\bin\Debug\Find Single Value.pdb
-C:\Find Single Value\obj\Debug\Find Single Value.exe
-C:\Find Single Value\obj\Debug\Find Single Value.pdb
-C:\Find Single Value\obj\Debug\Find Single Value.exe.config

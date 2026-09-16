@@ -1,7 +1,0 @@
-C:\Retrieve A Single Value(Execute Scalar)\bin\Debug\Retrieve A Single Value(Execute Scalar).exe.config
-C:\Retrieve A Single Value(Execute Scalar)\bin\Debug\Retrieve A Single Value(Execute Scalar).exe
-C:\Retrieve A Single Value(Execute Scalar)\bin\Debug\Retrieve A Single Value(Execute Scalar).pdb
-C:\Retrieve A Single Value(Execute Scalar)\obj\Debug\Retrieve A Single Value(Execute Scalar).csproj.AssemblyReference.cache
-C:\Retrieve A Single Value(Execute Scalar)\obj\Debug\Retrieve A Single Value(Execute Scalar).csproj.CoreCompileInputs.cache
-C:\Retrieve A Single Value(Execute Scalar)\obj\Debug\Retrieve A Single Value(Execute Scalar).exe
-C:\Retrieve A Single Value(Execute Scalar)\obj\Debug\Retrieve A Single Value(Execute Scalar).pdb

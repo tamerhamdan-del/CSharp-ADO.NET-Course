@@ -1,7 +1,0 @@
-C:\Filtering Data In Data View\bin\Debug\Filtering Data In Data View.exe.config
-C:\Filtering Data In Data View\bin\Debug\Filtering Data In Data View.exe
-C:\Filtering Data In Data View\bin\Debug\Filtering Data In Data View.pdb
-C:\Filtering Data In Data View\obj\Debug\Filtering Data In Data View.csproj.AssemblyReference.cache
-C:\Filtering Data In Data View\obj\Debug\Filtering Data In Data View.csproj.CoreCompileInputs.cache
-C:\Filtering Data In Data View\obj\Debug\Filtering Data In Data View.exe
-C:\Filtering Data In Data View\obj\Debug\Filtering Data In Data View.pdb

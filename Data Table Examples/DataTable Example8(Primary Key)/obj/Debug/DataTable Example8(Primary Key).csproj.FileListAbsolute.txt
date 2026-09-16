@@ -1,8 +1,0 @@
-C:\DataTable Example8(Primary Key)\bin\Debug\DataTable Example8(Primary Key).exe.config
-C:\DataTable Example8(Primary Key)\bin\Debug\DataTable Example8(Primary Key).exe
-C:\DataTable Example8(Primary Key)\bin\Debug\DataTable Example8(Primary Key).pdb
-C:\DataTable Example8(Primary Key)\obj\Debug\DataTable Example8(Primary Key).csproj.AssemblyReference.cache
-C:\DataTable Example8(Primary Key)\obj\Debug\DataTable Example8(Primary Key).csproj.CoreCompileInputs.cache
-C:\DataTable Example8(Primary Key)\obj\Debug\DataTable Example8(Primary Key).exe
-C:\DataTable Example8(Primary Key)\obj\Debug\DataTable Example8(Primary Key).pdb
-C:\DataTable Example8(Primary Key)\obj\Debug\DataTable Example8(Primary Key).exe.config

@@ -1,7 +1,0 @@
-C:\DataTable Example 1 (Create Offline Data Table and ListData)\bin\Debug\DataTable Example 1 (Create Offline Data Table and ListData).exe.config
-C:\DataTable Example 1 (Create Offline Data Table and ListData)\bin\Debug\DataTable Example 1 (Create Offline Data Table and ListData).exe
-C:\DataTable Example 1 (Create Offline Data Table and ListData)\bin\Debug\DataTable Example 1 (Create Offline Data Table and ListData).pdb
-C:\DataTable Example 1 (Create Offline Data Table and ListData)\obj\Debug\DataTable Example 1 (Create Offline Data Table and ListData).csproj.AssemblyReference.cache
-C:\DataTable Example 1 (Create Offline Data Table and ListData)\obj\Debug\DataTable Example 1 (Create Offline Data Table and ListData).csproj.CoreCompileInputs.cache
-C:\DataTable Example 1 (Create Offline Data Table and ListData)\obj\Debug\DataTable Example 1 (Create Offline Data Table and ListData).exe
-C:\DataTable Example 1 (Create Offline Data Table and ListData)\obj\Debug\DataTable Example 1 (Create Offline Data Table and ListData).pdb
